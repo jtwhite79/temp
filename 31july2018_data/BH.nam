@@ -3,7 +3,3 @@
 LIST               7  BH.lst
 DIS               29  BH.dis 
 BAS6              28  BH.bas 
-DATA(BINARY)     536  ../template/BH.hyd.bin REPLACE
-DATA(BINARY)      50  ../template/BH.cbb REPLACE
-DATA(BINARY)      30  ../template/BH.hds REPLACE
-DATA              55  ../template/BH.sfr.out
